@@ -5,8 +5,8 @@
 
 ```js
 const Striker = {
-    Age: 16,
-    Description: "Creator Of Discord Bot Danger Music",
+    Age: "16",
+    Description: "Discord Bot Developer",
     Favourite_Language: "JavaScript",
     Favourite_Things: "Discord,Gaming,Playing,Roaming-Around"
   },
