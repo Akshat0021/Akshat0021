@@ -1,6 +1,6 @@
 # Hey, I am Striker !!
 <h1 align="center"></h1>
-<p align="center">Hello I'm Striker...Creator of the Discord bot => Danger Music</p>
+<p align="center">Hello I'm Striker...</p>
 
 
 ```js
