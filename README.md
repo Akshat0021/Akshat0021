@@ -1,7 +1,9 @@
+# STRIKER-69
+
 # Hey, I am Striker !!
 <h1 align="center"></h1>
 
-
+![Discord](https://discord.c99.nl/widget/theme-3/755392862513922078.png)
 
 ```js
 const Striker = {
